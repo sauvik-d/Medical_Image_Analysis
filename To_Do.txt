@@ -1,0 +1,8 @@
+1. Models for Segmentation:
+U-Net, Fully Convolutional Networks (FCNs), DeepLab, Mask R-CNN, PSPNet, SegNet
+
+2. Models for trials : Use Fine Tuning
+
+VGGNET, XCeption, MobileNet, ResNet
+
+3. 
